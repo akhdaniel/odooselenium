@@ -1,19 +1,7 @@
-# Python files.
-*.pyc
-*.pyo
-*.egg-info
-
-# Third-party libraries.
-/lib/
-
-# Data files.
-/var/
-
-# Tox files.
-/.tox/
-
-# Cache files
-.cache/
-
-# Coverage
-.coverage
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
